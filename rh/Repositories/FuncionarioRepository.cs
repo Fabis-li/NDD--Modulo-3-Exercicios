@@ -13,6 +13,11 @@ namespace rh.Repositories
         {
             return Funcionarios;
         }
+
+        public static FuncionarioModel ObterPorUsuarioESenha(string nome, string senha)
+        {
+           
+        }
     }
     
 }
