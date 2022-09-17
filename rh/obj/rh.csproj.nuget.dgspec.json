@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {}
+    "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {
+    "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
+        "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
         "projectName": "rh",
-        "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
+        "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
         "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\obj\\",
+        "outputPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",

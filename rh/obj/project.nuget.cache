@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OyTP9NCcbJA4syivyJYv5Hq1acU9BuoYQ+UTEMd+9y5XrXI6pXHm2MNZ9H3dGLXOm8Lj80HgHdckY1UbQMoN+w==",
+  "dgSpecHash": "LrNqTXEHvQnmQqd+Fyc4l0LBtECfKvm6wSTqi97lv9FkiDiqNYP1K1WOCZn5s06lpgdb3Et9BzmiknMflmrW3w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
+  "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
