@@ -20,9 +20,35 @@ namespace rh.Repositories
            return Funcionarios.FirstOrDefault(f => f.Nome == nome && f.Senha == senha);
         }
         
-        public static void FuncionarioModel Adicionar(FuncionarioDTO funcionario)
+        public static void Adicionar(FuncionarioDTO funcionario)
         {
-            Funcionarios.Add(new funcionario())
+            int id = GeraId();
+            Funcionarios.Add(new FuncionarioModel(id, 
+                                        funcionario.Nome, 
+                                        funcionario.Senha, 
+                                        funcionario.Permisao, 
+                                        funcionario.Salario
+                                        ));            
+        }
+
+        private static int GeraId()
+        {
+            return Funcionarios.Last().Id + 1;
+        }
+
+        public static void Editar(FuncionarioDTO funcionario)
+        {
+            FuncionarioModel atualizaFuncionario = ObterPorUsuarioESenha(funcionario.Nome, funcionario.Senha);
+            atualizaFuncionario.Nome = funcionario.Nome;
+            atualizaFuncionario.Senha = funcionario.Senha;
+            atualizaFuncionario.Permisao = funcionario.Permisao;
+            atualizaFuncionario.Salario = funcionario.Salario;            
+        }
+        public static void Excluir(int id)
+        {
+            var idFuncionario = Funcionarios.FirstOrDefault(x => x.Id == id);
+            if(idFuncionario != null)
+                Funcionarios.Remove(idFuncionario);
         }
     }
     
