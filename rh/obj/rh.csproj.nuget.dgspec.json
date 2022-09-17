@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Fabiano\\Documents\\DevHouse\\Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {}
+    "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Fabiano\\Documents\\DevHouse\\Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {
+    "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Fabiano\\Documents\\DevHouse\\Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
+        "projectUniqueName": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
         "projectName": "rh",
-        "projectPath": "c:\\Users\\Fabiano\\Documents\\DevHouse\\Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
-        "packagesPath": "C:\\Users\\Fabiano\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Fabiano\\Documents\\DevHouse\\Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\obj\\",
+        "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\rh.csproj",
+        "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\rh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fabiano\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

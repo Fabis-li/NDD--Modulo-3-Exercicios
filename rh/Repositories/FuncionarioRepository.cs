@@ -1,3 +1,4 @@
+using rh.DTOs;
 using rh.Enums;
 using rh.Models;
 
@@ -16,7 +17,12 @@ namespace rh.Repositories
 
         public static FuncionarioModel ObterPorUsuarioESenha(string nome, string senha)
         {
-           
+           return Funcionarios.FirstOrDefault(f => f.Nome == nome && f.Senha == senha);
+        }
+        
+        public static void FuncionarioModel Adicionar(FuncionarioDTO funcionario)
+        {
+            Funcionarios.Add(new funcionario())
         }
     }
     
