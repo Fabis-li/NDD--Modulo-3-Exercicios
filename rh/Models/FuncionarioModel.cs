@@ -9,20 +9,20 @@ namespace rh.Models
         public string Nome { get; set; }
         public string Senha { get; set; }
         public EPermissoes Permisao { get; set; }
-        public decimal Salrio{ get; set; }
+        public decimal Salario{ get; set; }
 
         public FuncionarioModel()
         {
             
         }
 
-        public FuncionarioModel(int id, string nome, string senha, EPermissoes permisao, decimal salrio)
+        public FuncionarioModel(int id, string nome, string senha, EPermissoes permisao, decimal salario)
         {
             Id = id;
             Nome = nome;
             Senha = senha;
             Permisao = permisao;
-            Salrio = salrio;
+            Salario = salario;
         }
     }
 }
