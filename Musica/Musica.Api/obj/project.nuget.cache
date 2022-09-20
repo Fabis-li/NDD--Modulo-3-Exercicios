@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "KfwADCo+2aN4mN2kRFImYFZRwR4zdErFIkz6n+7Xnpvt9QJQ/mGxcZoLtEneCUcUzgD73uYcK6Uk/oTlvx9mwA==",
+  "dgSpecHash": "pd6mTxshptrWLOUZePvG7uXbB/uLFCimG46kVaGBrmCk7JFqJnD0udu5WtdWuf6JztLtV0nO7UFT7yuFYGCoUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
