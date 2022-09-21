@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "aoAE7e7l089lJPf9JWmlc9xzhTss4LyT1cLj8rvCN9RAzxUd1G2sMsuZGbbxrYEr+TAHU3WATx/6EW5spXZI+A==",
+  "dgSpecHash": "tAVyYTTjcZMcjA3oRZ1n+0cyJYXh5WkrNz/UNUauy+I2UK5GxFsB8PrOFLD8PdPUunjd4W/MC/934uS7zlWlyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Repository\\Musica.Repository.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Repository\\Musica.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.9\\microsoft.entityframeworkcore.analyzers.6.0.9.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
