@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pd6mTxshptrWLOUZePvG7uXbB/uLFCimG46kVaGBrmCk7JFqJnD0udu5WtdWuf6JztLtV0nO7UFT7yuFYGCoUw==",
+  "dgSpecHash": "4US78eawekR7AIy8m9gQYxYvjCfbN2vfAKfO2dgLS4jLL62mRXbIoyn1UTHP56NJNOp86UadV5W1mKemDnpIkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj",
+  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

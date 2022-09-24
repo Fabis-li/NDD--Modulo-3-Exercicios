@@ -1,8 +1,17 @@
 
+using Musica.Domain.Interfaces.Repositories;
+using Musica.Domain.Interfaces.Services;
+using Musica.Domain.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<IBandaServico, BandaServico>();
+
+
+
 
 var app = builder.Build();
 
