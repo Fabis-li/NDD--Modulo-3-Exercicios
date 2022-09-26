@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "72VImX7pG/DDaYmrmxIB37JkFhJZgLWatECj/gBKtpK7ljthRzQgbe/i1jWepYduEanIFOKxBDjvvggTGNJ4hQ==",
+  "dgSpecHash": "vEIuk3MJwu6efmTW+eOZiaO5rkFXi/Yl8sXoXKzaRQcEfug1bqfOJcE7H6NVJz3n/HbAnA0qiAu+Ub0HGKhL6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj",
+  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -14,6 +14,7 @@
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.9\\microsoft.entityframeworkcore.design.6.0.9.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.9\\microsoft.entityframeworkcore.relational.6.0.9.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.9\\microsoft.entityframeworkcore.sqlserver.6.0.9.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.9\\microsoft.entityframeworkcore.tools.6.0.9.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

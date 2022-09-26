@@ -2,15 +2,18 @@
 using Musica.Domain.Interfaces.Repositories;
 using Musica.Domain.Interfaces.Services;
 using Musica.Domain.Services;
+using Musica.Infra.DataBase;
+using Musica.Infra.DataBase.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
-builder.Services.AddSwaggerGen();
+builder.Services.AddDbContext<BandaDbContext>();
 
 builder.Services.AddScoped<IBandaServico, BandaServico>();
+builder.Services.AddScoped<IBandaRepository, BandaRepository>();
 
-
+builder.Services.AddControllers();
+builder.Services.AddSwaggerGen();
 
 
 var app = builder.Build();
