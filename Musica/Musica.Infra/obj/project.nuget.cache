@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vEIuk3MJwu6efmTW+eOZiaO5rkFXi/Yl8sXoXKzaRQcEfug1bqfOJcE7H6NVJz3n/HbAnA0qiAu+Ub0HGKhL6Q==",
+  "dgSpecHash": "QugWbB5eqDTmStzCGHUD49hPf8/69WHZvZg/1QRgyfPmH6d4VGW4aLSQsL/0vC64ElvYz57T+0t7MpLWKlYMxQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj",
+  "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
