@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSnLetjHoZ6yrLaMenp7jY3Yh1bm4UJxkKD+3rdl7jYp39QQoAxrkVU8oW+MF/15SA/mNIczq8SJNdC9xl+bCA==",
+  "dgSpecHash": "vmQO/id4kJw5c/nRq3OIXW402lEqUCVpwUyERSJbXqEFjBE5zz0Ht5NdhKA6NoaqczSEKz7jdDmwpbCbWSjGaw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj",
+  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",

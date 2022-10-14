@@ -14,7 +14,7 @@ namespace Musica.Infra.DataBase.Mappings
 
             builder.Property(m => m.Id)
                     .HasColumnName("ID")
-                    .HasColumnType("uniqueidentifier");
+                    .HasColumnType("int");
             
             builder.Property(m => m.Descricao)
                     .HasColumnName("DESCRICAO")
