@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj",
         "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\obj\\",
+=======
+    "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj",
+        "projectName": "Musica.Api",
+        "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\Musica.Api.csproj",
+        "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Api\\obj\\",
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +42,19 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj": {
                 "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj"
               },
               "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
                 "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj"
+=======
+              "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj": {
+                "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj"
+              },
+              "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
+                "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj"
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270
               }
             }
           }
@@ -85,6 +107,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -93,6 +116,16 @@
         "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj",
         "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\obj\\",
+=======
+    "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj",
+        "projectName": "Musica.DI",
+        "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\Musica.DI.csproj",
+        "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.DI\\obj\\",
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,11 +142,19 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
                 "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj"
               },
               "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj": {
                 "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj"
+=======
+              "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
+                "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj"
+              },
+              "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj": {
+                "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj"
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270
               }
             }
           }
@@ -159,6 +200,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -167,6 +209,16 @@
         "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj",
         "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\obj\\",
+=======
+    "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj",
+        "projectName": "Musica.Domain",
+        "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\obj\\",
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,6 +278,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -234,6 +287,16 @@
         "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj",
         "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\obj\\",
+=======
+    "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj",
+        "projectName": "Musica.Infra",
+        "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\Musica.Infra.csproj",
+        "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Infra\\obj\\",
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -250,8 +313,13 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
                 "projectPath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj"
+=======
+              "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj": {
+                "projectPath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\Nova pasta\\NDD--Modulo-3-Exercicios\\Musica\\Musica.Domain\\Musica.Domain.csproj"
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270
               }
             }
           }
