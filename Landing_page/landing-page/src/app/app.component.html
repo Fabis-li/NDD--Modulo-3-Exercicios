@@ -34,15 +34,15 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <div>
+                <div [formGroup]="feedBack">
                     <label for="inputemail" class="col-sm-2 col-form-label">Email:</label>
-                    <input type="text" class="form-control" id="inputemail">
+                    <input formControlName="email" type="text" class="form-control" id="inputemail">
                     <label for="inputnome" class="col-sm-2 col-form-label">Nome:</label>
-                    <input type="text" class="form-control" id="inputnome">
+                    <input formControlName="nome" type="text" class="form-control" id="inputnome">
                     <label for="inputsobrenome" class="col-sm-2 col-form-label">Sobrenome:</label>
-                    <input type="text" class="form-control" id="inputsobrenome">
-                    <label for="message-text" class="col-form-label">Feedback:</label>
-                    <textarea class="form-control" id="message-text"></textarea>  
+                    <input formControlName="sobreNome" type="text" class="form-control" id="inputsobrenome">
+                    <label for="mensagem" class="col-form-label">Mensagem:</label>
+                    <textarea formControlName="mensagem" Class="form-control" id="mensagem"></textarea>  
                 </div>         
             </div>
             <div class="modal-footer">
