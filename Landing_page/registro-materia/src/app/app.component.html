@@ -1,23 +1,23 @@
 <div class="container w-25 mt-5 bg-primary text-dark bg-opacity-25">
-  <h2 class="p-3">Registro de Matérias</h2>
-  <form class="row g-3">
+  <h2 class="p-3 fw-bold border-dark border-bottom">Registro de Matérias</h2>
+  <form [formGroup]="formRegsitroMateria" class="row g-3">
     <div class="col-md-12">
-      <label for="inputEmail4" class="form-label fw-bold">Nome</label>
-      <input type="email" class="form-control" id="inputEmail4">
+      <label for="nome" class="form-label fw-bold">Nome</label>
+      <input formControlName="nome" type="nome" class="form-control" id="nome">
     </div>
     <div class="col-md-12">
-      <label for="inputPassword4" class="form-label fw-bold">Carga Horária</label>
-      <input type="password" class="form-control" id="inputPassword4">
+      <label for="cargahoraria" class="form-label fw-bold">Carga Horária</label>
+      <input formControlName="cargahoraria" type="number" class="form-control" id="cargahoraria">
     </div>
     <div class="col-12">
-      <label for="inputAddress" class="form-label fw-bold">Escola</label>
-      <input type="text" class="form-control" id="inputAddress" >
+      <label for="escola" class="form-label fw-bold">Escola</label>
+      <input formControlName="escola" type="text" class="form-control" id="escola" >
     </div>  
     
     <div class="col-md-12">
-      <label for="inputState" class="form-label fw-bold">Professor(a)</label>
-      <select id="inputState" class="form-select">
-        <option selected></option>
+      <label for="professor" class="form-label fw-bold">Professor(a)</label>
+      <select formControlName="professor" id="professor" class="form-select">
+        <option  disabled selected>Selecione um professor</option>
         <option>Otávio</option>
         <option>Vivian</option>
         <option>Leandro</option>
@@ -25,15 +25,15 @@
       </select>
     </div>
     <div>
-      <p class="fw-bold">Matéria é opcional ? </p>
+      <p class="fw-bold">Matéria é opcional</p>
       <div class="form-check">
-        <input class="form-check-input " type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+        <input formControlName="materia" class="form-check-input " type="radio" name="flexRadioDefault" id="flexRadioDefault1" value="sim">
         <label class="form-check-label" for="flexRadioDefault1">
           sim
         </label>
       </div>
       <div class="form-check">
-        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+        <input formControlName="materia" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" value="não">
         <label class="form-check-label" for="flexRadioDefault2">
           não
         </label>
