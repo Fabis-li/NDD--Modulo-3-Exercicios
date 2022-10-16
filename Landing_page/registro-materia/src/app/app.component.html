@@ -41,7 +41,22 @@
     </div>
 
     <div class="col-12">
-      <button type="submit" class="btn btn-primary mb-3">Enviar</button>
+      <button 
+      type="submit" 
+      class="w-25 btn m-2" 
+      (click)="showForm()" 
+      [disabled]="formRegsitroMateria.invalid"
+      [ngClass]="{'btn-success' : formRegsitroMateria.valid, 'btn-light' : formRegsitroMateria.invalid}"
+      >
+      Enviar
+      </button>
+      <button
+      type="submit"
+      class="btn-danger w-50 btn m-2" 
+      (click)="resetForm()"      
+      >
+      Limpa Formulario
+      </button>
     </div>
   </form>
 </div>
