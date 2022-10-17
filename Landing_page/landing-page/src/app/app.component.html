@@ -1,57 +1,10 @@
-<div class="container">
-    <div class="mb-3">
-        <img src="../assets/perfil.jpg" class="img-thumbnail" alt="foto perfil">
-    </div>
+<app-header></app-header>
+<app-sobre></app-sobre>
+<app-experiencia></app-experiencia>
+<app-habilidades></app-habilidades>
     
-    <div class="row">
-        <h1>Sobre mim</h1>
-        <p>
-            Me chamo Fabiano, nasci em São Paulo-SP, atualmente moro em São José-SC, sou formado em Adm,<br/>            
-        </p>
-    </div>
-
-        <div class="d-flex text-muted pt-3">
-            <img class="m-0" src="../assets/mkj.jpg" width="70" height="70" alt="logo-mkj">  
-            <p class="pb-2 mb-0 small lh-sm border-bottom">
-            <strong class="d-block text-dark" >Analista de Planejamento</strong>
-            MK Makenji  <br/>
-            abr de 2020 - mai de 2021 <br/>
-            São Paulo - SP
-            </p>           
-        </div>
-
-    <!-- Button trigger modal -->
-    <button type="button" class="btn btn-primary mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
-        Adicionar FeedBack
-    </button>
-  
-  <!-- Modal -->
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="exampleModalLabel">FeedBack</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div [formGroup]="feedBack">
-                    <label for="inputemail" class="col-sm-2 col-form-label">Email:</label>
-                    <input formControlName="email" type="text" class="form-control" id="inputemail">
-                    <label for="inputnome" class="col-sm-2 col-form-label">Nome:</label>
-                    <input formControlName="nome" type="text" class="form-control" id="inputnome">
-                    <label for="inputsobrenome" class="col-sm-2 col-form-label">Sobrenome:</label>
-                    <input formControlName="sobreNome" type="text" class="form-control" id="inputsobrenome">
-                    <label for="mensagem" class="col-form-label">Mensagem:</label>
-                    <textarea formControlName="mensagem" Class="form-control" id="mensagem"></textarea>  
-                </div>         
-            </div>
-            <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
-            <button type="button" class="btn btn-primary">Enviar</button>
-            </div>
-        </div>
-        </div>
-    </div>
+   
+   
+   
     
 
-</div>

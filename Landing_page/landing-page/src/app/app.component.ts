@@ -9,16 +9,12 @@ import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 export class AppComponent {
   title = 'landing-page';
   
-  feedBack: FormGroup;
+  
 
-  constructor(private formBuilder: FormBuilder){ 
-    this.feedBack = formBuilder.group({
-      email: this.formBuilder.control(''),
-      name: this.formBuilder.control(''),
-      sobrenome: this.formBuilder.control(''),
-      mensagem: this.formBuilder.control('')
-    })
-  }
+  constructor(){ 
+    
+    }
+  
 
   
 

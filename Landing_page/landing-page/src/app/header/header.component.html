@@ -1,0 +1,34 @@
+<nav class="navbar navbar-dark bg-primary mb-3">
+    <button type="button" class="btn btn-primary mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        Adicionar FeedBack
+    </button>
+
+  
+  <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">FeedBack</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div [formGroup]="feedBack">
+                    <label for="inputemail" class="col-sm-2 col-form-label">Email:</label>
+                    <input formControlName="email" type="text" class="form-control" id="inputemail">
+                    <label for="inputnome" class="col-sm-2 col-form-label">Nome:</label>
+                    <input formControlName="nome" type="text" class="form-control" id="inputnome">
+                    <label for="inputsobrenome" class="col-sm-2 col-form-label">Sobrenome:</label>
+                    <input formControlName="sobreNome" type="text" class="form-control" id="inputsobrenome">
+                    <label for="mensagem" class="col-form-label">Mensagem:</label>
+                    <textarea formControlName="mensagem" Class="form-control" id="mensagem"></textarea>  
+                </div>         
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+            <button type="button" class="btn btn-primary">Enviar</button>
+            </div>
+        </div>
+        </div>
+    </div>
+</nav>
