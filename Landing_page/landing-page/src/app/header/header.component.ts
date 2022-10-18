@@ -12,10 +12,11 @@ export class HeaderComponent {
   constructor(private formBuilder: FormBuilder) {
     this.feedBack = formBuilder.group({
       email: this.formBuilder.control(''),
-      name: this.formBuilder.control(''),
+      nome: this.formBuilder.control(''),
       sobrenome: this.formBuilder.control(''),
       mensagem: this.formBuilder.control('')
    })
+
   }
 
  
