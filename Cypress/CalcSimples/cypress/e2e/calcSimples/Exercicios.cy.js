@@ -31,6 +31,16 @@ context('testesExerc', () => {
         cy.get('#txtN1').type(20)
         cy.get('#rbFuncao_3').click()
         cy.get('#txtN2').type(2) 
+     });     
+     it('Calc70--45', () => {
+        cy.get('#txtN1').type(70)
+        cy.get('#rbFuncao_1').click()
+        cy.get('#txtN2').type(-45) 
      });
-    
+
+     it('tabuada', () => {
+        cy.get('#txtN1').type(2)
+        cy.get('#rbFuncao_3').click()
+        cy.get('#txtN2').type(1) 
+     });    
 });
