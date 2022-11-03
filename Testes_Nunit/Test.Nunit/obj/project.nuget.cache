@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SzIDyLqMCid68uefRitwzE3k3RESslMnj8DdMLk1g7PhWqpFQRI7c0K2E0KE6OLlsCUoEG4kecQhCkCexFhOgQ==",
+  "dgSpecHash": "BTGmm7LDVlomjSyHruJsiuS8IZbpiQFo7rN14oYrBnNbsdxUQQFi55GAhmeOz7JRVeNlSoZ4D4J1hectsoIBkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Testes_Nunit\\Test.Nunit\\Test.Nunit.csproj",
+  "projectFilePath": "c:\\Users\\fabia\\OneDrive\\Documentos\\DevSenai\\Modulo-3\\NDD-Modulo-3\\NDD--Modulo-3-Exercicios\\Testes_Nunit\\Test.Nunit\\Test.Nunit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
