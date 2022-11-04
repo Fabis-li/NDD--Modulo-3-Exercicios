@@ -30,5 +30,7 @@ describe('MatcherComponent', () => {
     expect(obj1).toBe(obj1);
   });
 
- 
+  it('should check if the values are the same',()=>{
+    expect(component.Igual()).toEqual(2);
+  });
 });

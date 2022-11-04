@@ -30,7 +30,5 @@ describe('AppComponent', () => {
   // });
 
 
-  it('should check if the values are the same',()=>{
-    expect(component.Igual()).toEqual(2);
-  });
+ 
 });
