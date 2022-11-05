@@ -12,8 +12,11 @@ export class MatcherComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  Igual(): number{
+  igual(): number{
     return 2
+  }
+  frutas(): string[]{
+    return ["maçã", "perâ", "uva"]
   }
 
 }

@@ -31,7 +31,7 @@ describe('MatcherComponent', () => {
   });
 
   it('should check if the values are the same',()=>{
-    expect(component.Igual()).toEqual(2);
+    expect(component.igual()).toEqual(2);
   });
 
   it('should validate the mobile number',()=>{
@@ -63,6 +63,27 @@ describe('MatcherComponent', () => {
 
     expect(valor).toBeFalse();
   });
+
+  it('should validate the use of Matcher toContain',()=>{
+    
+    expect(component.frutas).toContain("maçã");
+    expect(component.frutas).toContain("perâ");
+    expect(component.frutas).toContain("uva");
+  });
+
+  // it('should validate the use of Matcher toBeGreaterThan',()=>{
+  //   const num = 20;
+
+  //   expect(num).toBeGreaterThan(10);
+    
+  // });
+
+  // it('should validate the use of Matcher toBeLessThan',()=>{
+  //   const num = 20;
+
+  //   expect(num).toBeLessThan(30);
+    
+  // });
 
   
 });
