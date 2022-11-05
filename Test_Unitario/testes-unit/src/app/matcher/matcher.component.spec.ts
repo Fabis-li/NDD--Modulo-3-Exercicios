@@ -71,19 +71,19 @@ describe('MatcherComponent', () => {
     expect(component.frutas).toContain("uva");
   });
 
-  // it('should validate the use of Matcher toBeGreaterThan',()=>{
-  //   const num = 20;
+  it('should validate the use of Matcher toBeGreaterThan',()=>{
+    const num = 20;
 
-  //   expect(num).toBeGreaterThan(10);
+    expect(num).toBeGreaterThan(10);
     
-  // });
+  });
 
-  // it('should validate the use of Matcher toBeLessThan',()=>{
-  //   const num = 20;
+  it('should validate the use of Matcher toBeLessThan',()=>{
+    const num = 20;
 
-  //   expect(num).toBeLessThan(30);
+    expect(num).toBeLessThan(30);
     
-  // });
+  });
 
   
 });
