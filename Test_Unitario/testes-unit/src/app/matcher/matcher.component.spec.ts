@@ -52,5 +52,17 @@ describe('MatcherComponent', () => {
     expect(valor).toBeUndefined();
   });
 
+  it('should validate the use of Matcher toBeTruthy',()=>{
+    let valor = true;
+
+    expect(valor).toBeTruthy();
+  });
+
+  it('should validate the use of Matcher toBeFalse',()=>{
+    let valor = false;
+
+    expect(valor).toBeFalse();
+  });
+
   
 });
