@@ -15,4 +15,5 @@ export class MatcherComponent implements OnInit {
   Igual(): number{
     return 2
   }
+
 }

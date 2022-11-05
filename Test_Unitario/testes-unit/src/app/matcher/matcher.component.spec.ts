@@ -33,4 +33,18 @@ describe('MatcherComponent', () => {
   it('should check if the values are the same',()=>{
     expect(component.Igual()).toEqual(2);
   });
+
+  it('should validate the mobile number',()=>{
+    const cel = "(11) 98765-4567";
+
+    expect(cel).toMatch(/^\([1-9]{2}\) [9]{0,1}[6-9]{1}[0-9]{3}\-[0-9]{4}$/);
+  });
+
+  it('should validate the mobile number',()=>{
+    const cel = "(11) 98765-4567";
+
+    expect(cel).toMatch(/^\([1-9]{2}\) [9]{0,1}[6-9]{1}[0-9]{3}\-[0-9]{4}$/);
+  });
+
+  
 });
