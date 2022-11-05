@@ -83,6 +83,8 @@ describe('MatcherComponent', () => {
   it('should validate the use of Matcher toContain',()=>{
     
     expect(component.frutas()).toContain("maçã");
+    expect(component.frutas()).toContain("perâ");
+    expect(component.frutas()).toContain("uva");
     
   });
 
