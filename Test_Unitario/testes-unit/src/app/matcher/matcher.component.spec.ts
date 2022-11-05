@@ -19,6 +19,18 @@ describe('MatcherComponent', () => {
     fixture.detectChanges();
   });
 
+  const calculadora = {
+    somar: function(n1: number, n2: number){
+      return n1 + n2;
+    }
+  }
+
+  it('should validate the use of Matcher SpyOn', ()=>{
+    calculadora.somar(2, 3);
+
+    expect(calculadora.somar).toHaveBeenCalled();
+  })
+
   // it('should create', () => {
   //   expect(component).toBeTruthy();
   // });
