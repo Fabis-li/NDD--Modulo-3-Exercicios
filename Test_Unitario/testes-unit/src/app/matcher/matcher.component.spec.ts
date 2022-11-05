@@ -25,6 +25,10 @@ describe('MatcherComponent', () => {
     }
   }
 
+  beforeAll(()=> {
+    spyOn(calculadora, 'somar')
+  });
+
   it('should validate the use of Matcher SpyOn', ()=>{
     calculadora.somar(2, 3);
 
@@ -78,9 +82,8 @@ describe('MatcherComponent', () => {
 
   it('should validate the use of Matcher toContain',()=>{
     
-    expect(component.frutas).toContain("maçã");
-    expect(component.frutas).toContain("perâ");
-    expect(component.frutas).toContain("uva");
+    expect(component.frutas()).toContain("maçã");
+    
   });
 
   it('should validate the use of Matcher toBeGreaterThan',()=>{
