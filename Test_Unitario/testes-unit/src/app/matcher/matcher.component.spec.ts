@@ -40,10 +40,10 @@ describe('MatcherComponent', () => {
     expect(cel).toMatch(/^\([1-9]{2}\) [9]{0,1}[6-9]{1}[0-9]{3}\-[0-9]{4}$/);
   });
 
-  it('should validate the mobile number',()=>{
-    const cel = "(11) 98765-4567";
+  it('should validate the use of Matcher toBeDefined',()=>{
+    let valor = 20;
 
-    expect(cel).toMatch(/^\([1-9]{2}\) [9]{0,1}[6-9]{1}[0-9]{3}\-[0-9]{4}$/);
+    expect(valor).toBeDefined();
   });
 
   
