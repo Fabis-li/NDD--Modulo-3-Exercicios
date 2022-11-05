@@ -46,5 +46,11 @@ describe('MatcherComponent', () => {
     expect(valor).toBeDefined();
   });
 
+  it('should validate the use of Matcher toBeUndefined',()=>{
+    let valor;
+
+    expect(valor).toBeUndefined();
+  });
+
   
 });
